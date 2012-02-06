@@ -1,0 +1,3 @@
+inside "public/javascripts" do
+  run "wget https://github.com/quirkey/sammy/raw/master/lib/min/sammy-latest.min.js  --no-check-certificate"
+end
